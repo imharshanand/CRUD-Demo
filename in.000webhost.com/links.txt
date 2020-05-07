@@ -1,0 +1,6 @@
+https://crudappdb.000webhostapp.com/delete.php
+https://crudappdb.000webhostapp.com/update.php
+https://crudappdb.000webhostapp.com/insert.php
+https://crudappdb.000webhostapp.com/retrieve.php
+
+$connection = mysqli_connect("localhost","id13599490_cruddb","2og5NT]s5dS\+q1s","id13599490_crud");
