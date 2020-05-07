@@ -29,7 +29,7 @@ A android app to demonstrate CRUD operations using MYSQL, Volley, PHP. Hosted on
   </tr>
   <tr>
     <td><img src="Screenshots/phpMyAdmin.png" width=450></td>
-	<td><img src="Screenshots/FileManagerFiles.png" width=300></td>
+	<td><img src="Screenshots/FileManagerFiles.png" width=450></td>
   </tr>
  </table>
  </div>
